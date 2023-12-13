@@ -1,0 +1,15 @@
+<resources>
+    <declare-styleable name="MgTagLayout">
+        <attr format="dimension" name="tagHorizontalSpacing"/>
+        <attr format="dimension" name="tagVerticalSpacing"/>
+        <attr format="integer" name="tagMaxLine"/>
+        <attr format="dimension" name="tagThresholdWidth"/>
+    </declare-styleable>
+
+    <declare-styleable name="MgTagLayout_Layout">
+        <attr format="dimension" name="layout_minWidth"/>
+        <attr format="dimension" name="layout_minHeight"/>
+        <attr format="dimension" name="layout_maxWidth"/>
+        <attr format="dimension" name="layout_maxHeight"/>
+    </declare-styleable>
+</resources>
